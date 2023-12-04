@@ -23,10 +23,6 @@ sudo pacman -S ttf-fira-code
 sudo pacman -S ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols-mono
 ```
 
-## pacman, yay
-Update
-vim, discord
-
 ## VIA keyboard
 Install AppImage from VIA GitHub
 ```
@@ -94,7 +90,7 @@ Install Amazon Corretto to `/usr/lib/jvm`
 Add to jEnv
 `jenv add /usr/lib/jvm/{amazon_corretto}`
 
-## Apps
-xournal++: PDF Editor
-Discord: Communications
-vim / neovim: Text editor
+## Misc
+- xournal++: PDF Editor
+- Discord: Communications
+- vim / neovim: Text editor
