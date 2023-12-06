@@ -99,6 +99,16 @@ _G.packer_plugins = {
     path = "/home/ai/.local/share/nvim/site/pack/packer/start/friendly-snippets",
     url = "https://github.com/rafamadriz/friendly-snippets"
   },
+  ["lualine.nvim"] = {
+    loaded = true,
+    path = "/home/ai/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+    url = "https://github.com/nvim-lualine/lualine.nvim"
+  },
+  nvim = {
+    loaded = true,
+    path = "/home/ai/.local/share/nvim/site/pack/packer/start/nvim",
+    url = "https://github.com/catppuccin/nvim"
+  },
   ["nvim-autopairs"] = {
     loaded = true,
     path = "/home/ai/.local/share/nvim/site/pack/packer/start/nvim-autopairs",

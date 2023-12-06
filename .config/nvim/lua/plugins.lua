@@ -50,4 +50,10 @@ return require("packer").startup(function(use)
 
 	-- Rainbow delimiter
 	use("HiPhish/nvim-ts-rainbow2")
+
+	-- Catppuccin color theme
+	use("catppuccin/nvim")
+
+	-- Nvim lualine
+	use("nvim-lualine/lualine.nvim")
 end)
