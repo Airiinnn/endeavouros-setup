@@ -23,6 +23,11 @@ sudo pacman -S ttf-fira-code
 sudo pacman -S ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common ttf-nerd-fonts-symbols-mono
 ```
 
+## Neovim
+Useful resources / reference: 
+- [Transform Your Neovim into a IDE](https://martinlwx.github.io/en/config-neovim-from-scratch/)
+- [Getting Started With Neovim: From Beginner to Advanced IDE](https://linovox.com/getting-started-with-neovim/)
+
 ## VIA keyboard
 Install AppImage from VIA GitHub
 ```
