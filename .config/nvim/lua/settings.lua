@@ -30,7 +30,7 @@ o.showmode = true
 
 -- Searching
 o.incsearch = true
-o.hlsearch = true
+o.hlsearch = false
 o.ignorecase = true
 o.smartcase = false
 
