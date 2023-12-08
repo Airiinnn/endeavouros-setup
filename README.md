@@ -104,3 +104,5 @@ Add to jEnv
 - xournal++: PDF Editor
 - Discord: Communications
 - vim / neovim: Text editor
+- htop: Task manager
+- picom: Compositor
