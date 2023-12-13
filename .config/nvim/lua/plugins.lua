@@ -56,4 +56,7 @@ return require("packer").startup(function(use)
 
 	-- Nvim lualine
 	use("nvim-lualine/lualine.nvim")
+
+	-- VimTex
+	-- use("lervag/vimtex")
 end)
