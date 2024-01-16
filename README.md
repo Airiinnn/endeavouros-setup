@@ -28,6 +28,12 @@ Useful resources / reference:
 - [Transform Your Neovim into a IDE](https://martinlwx.github.io/en/config-neovim-from-scratch/)
 - [Getting Started With Neovim: From Beginner to Advanced IDE](https://linovox.com/getting-started-with-neovim/)
 
+Install [Packer](https://github.com/wbthomason/packer.nvim)
+```
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+```
+
 Additional dependencies:
 ```
 sudo pacman -S ripgrep xclip
