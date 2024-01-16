@@ -21,8 +21,8 @@ o.shiftwidth = 4
 o.extendtab = true
 
 -- UI config
-o.number = true
-o.relativenumber = false
+o.number = false
+o.relativenumber = true
 o.cursorline = true
 o.splitbelow = true
 o.splitright = true
@@ -36,3 +36,4 @@ o.smartcase = false
 
 -- True color terminal
 o.termguicolors = true
+
