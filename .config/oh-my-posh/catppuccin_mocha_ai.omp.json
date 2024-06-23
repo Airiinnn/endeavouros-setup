@@ -51,16 +51,9 @@
           "template": "{{ .HEAD }} ",
           "style": "plain",
           "type": "git"
-        },
-        {
-          "style": "plain",
-          "foreground": "p:closer",
-          "template": "\uf105",
-          "type": "text"
         }
       ],
-      "type": "prompt",
-	  "newline": true
+      "type": "prompt"
     },
     {
       "type": "rprompt",
@@ -108,6 +101,19 @@
             "missing_command_text": "",
             "display_mode": "files"
           }
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "style": "plain",
+          "foreground": "p:closer",
+          "template": "\uf105",
+          "type": "text"
         }
       ]
     }
