@@ -56,7 +56,7 @@
       "type": "prompt"
     },
     {
-      "type": "rprompt",
+      "type": "prompt",
       "alignment": "right",
       "segments": [
         {
