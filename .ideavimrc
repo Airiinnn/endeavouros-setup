@@ -1,0 +1,6 @@
+:set relativenumber
+:set number
+:set clipboard=unnamedplus
+
+packadd matchit
+
